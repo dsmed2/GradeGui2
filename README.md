@@ -10,4 +10,4 @@ Uses the Qt interface, UI,  to create a Gui so the user can easily determine gra
 Have used in Qt only and worked on windows and linux, in theory should still work on apple machines.
 
 # How to run
-Just open the GradeGui2.pro in QT, configure, build, and run the project. It will guide you through how to configure it in QT. Once it is done building, a window will pop up with GUI.
+Download the zip of the project and create a folder for the project. Once that is downloaded and the folder is created, move the contents into the folder and open the GradeGui2.pro in QT, configure, build and run the project. It will guide you through how to configure it in QT. Once it is done building, a window will pop up with GUI.
